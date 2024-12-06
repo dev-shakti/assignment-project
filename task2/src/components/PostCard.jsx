@@ -24,7 +24,7 @@ const PostCard = ({post}) => {
         </div>
         <BsThreeDotsVertical size={22} className="text-gray-600 cursor-pointer" />
       </div>
-      <p className="text-gray-800 font-normal">
+      <p className="text-gray-700 font-normal">
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta, cupiditate excepturi? Debitis, tenetur aliquam ex rem recusandae explicabo qui voluptatem. Tenetur amet cum aperiam corrupti culpa animi itaque quos aspernatur.
       </p>
     </div>
